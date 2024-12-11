@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Rust programming involving moving a vector while a slice of that vector is borrowed.  The `bug.rs` file contains the erroneous code. The `bugSolution.rs` file provides the corrected version, showcasing the solution to avoid the move error.
